@@ -15,3 +15,12 @@ It helps us understand:
 - **GitHub** — for version control & collaboration  
 - **Markdown** — for formatting documentation like this README  
 - **Web Browser** — for using the GitHub web interface
+---
+
+## 🧠 What We Learned
+By completing this project, we will:
+1. Create and initialize a repository  
+2. Make and commit changes  
+3. Use a new branch for edits  
+4. Open and merge a pull request  
+5. Understand the basic GitHub workflow
