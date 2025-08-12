@@ -9,7 +9,9 @@ It helps us understand:
 - How to create and structure a repository
 - How to make changes using commits
 - How to work with branches
-- How to open and merge pull requests# Hello World 🌍
-
-Welcome to **Davidic Core's first GitHub project** 🚀  
-This marks the beginning of our journey in using GitHub for collaboration, version control, and building innovative projects.
+- How to open and merge pull requests
+---
+## 🛠 Tools & Technologies
+- **GitHub** — for version control & collaboration  
+- **Markdown** — for formatting documentation like this README  
+- **Web Browser** — for using the GitHub web interface
