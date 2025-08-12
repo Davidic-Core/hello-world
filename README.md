@@ -1,4 +1,7 @@
----
+# Hello World 🌍
+
+Welcome to **Davidic Core's first GitHub project** 🚀  
+This marks the beginning of our journey in using GitHub for collaboration, version control, and building innovative projects.
 
 ## 📚 About This Project
 The **Hello World** project is a classic first step for every developer or team learning GitHub.  
